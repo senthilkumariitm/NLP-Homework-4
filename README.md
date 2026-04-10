@@ -1,5 +1,5 @@
 # NLP-Homework-4
-# NLP Assignment: Scaled Dot-Product Attention
+
 
 ### Student Info
 - **Name:** Senthil kumar 
